@@ -1,4 +1,4 @@
-[![Profile_Header](profile/profileheader.jpg)](https://www.linkedin.com/in/dheerajghosh007/)
+[![Profile_Header](profile/profileheader.jpeg)](https://www.linkedin.com/in/dheerajghosh007/)
 
 ## About Me
 I've completed my B.Tech in Computer Science and Engineering from Bhilai Institute of Technology, Durg. 
